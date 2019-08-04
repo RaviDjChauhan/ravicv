@@ -2,3 +2,13 @@
 {
 border-style: solid;
 }
+
+.BodyClass
+{
+  background-color: #ecfcff;
+}
+
+.HrCLass
+{
+  border: 1px solid white;
+}
